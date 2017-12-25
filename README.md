@@ -1,9 +1,6 @@
-# PortScanner
-A tool That Can Scan Either A single Port OR A Range Of Ports, For A Specific Target .
-
-# Demo 
-
-[![asciicast](https://image.ibb.co/hKicmG/111.png)](https://asciinema.org/a/BRcZj5SzY5cNxZ9dNgTpd3kIM)
+# Fport
+A Perl tool which can scans single and multiple ports for either a specific site or list of sites. Edit
+Add topics
 
 # Contact 
 
